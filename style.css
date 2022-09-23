@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding:0%
+}
+
+/* Navbar */
+.navbar-nav{
+    font-size: 14px;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.navbar-brand{
+    font-size: 22px;
+}
+
+.navbar{
+    height: 85px;
+}
+
+/* Progress Bar */
+.progress{
+    height: 30px;
+    border-radius: 50px;
+    transition: all 0.5s ease;
+}
+.progress:hover{
+    transform: scale(1.1);
+}
+
+/* Button */
+.btn:hover{
+    color:white
+}
+
+.footer-bottom{
+    background-color: black;
+    width: auto;
+    padding: 20px 0;
+    text-align: center;
+    height: 100px;
+}
+
+ps{
+    color: white;
+    font-size: 12px;
+    transform: translateY(-100%);
+}
+
+/* About Section */
+
+/* Skills Section */
+
+z{
+    font-size: 4px;
+}
